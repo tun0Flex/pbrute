@@ -1,0 +1,9 @@
+paramiko
+socket
+time
+colorama 
+threading 
+queue
+ftplib
+os 
+typing
